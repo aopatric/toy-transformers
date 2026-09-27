@@ -1,0 +1,23 @@
+# Python / uv
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Downloaded corpora (regenerate with scripts/data.sh)
+data/
+
+# Model checkpoints
+*.pt
+*.pth
+checkpoints/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+
+.claude
