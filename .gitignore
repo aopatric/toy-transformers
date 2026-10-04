@@ -21,3 +21,6 @@ checkpoints/
 .DS_Store
 
 .claude/
+
+# Local to-dos (any directory)
+TODO.md
